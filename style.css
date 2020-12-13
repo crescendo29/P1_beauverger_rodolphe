@@ -35,6 +35,10 @@ body::after {
   background: linear-gradient(#2196f3, #e91e63);
   clip-path: circle(20% at 10% 10%);
 }
+header {
+  color: #7451eb;
+  z-index: 1;
+}
 
 .container {
   position: relative;

@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+header {
+  font-size: 2rem;
+  padding: 2rem;
+  text-align: center;
+  background: linear-gradient(
+    #7451eb,
+    rgba(204, 55, 55, 0.726)
+  );
+}
+header ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+  list-style: none;
+}
+main {
+  font-size: 1.5rem;
+  padding: 2rem;
+}
+main h2 {
+  color: #7451eb;
+}
+main p {
+  padding: 2rem;
+}
+
+main ol {
+  padding: 2rem;
+  color: #7451eb;
+}
